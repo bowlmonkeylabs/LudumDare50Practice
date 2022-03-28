@@ -3,7 +3,7 @@ using BML.ScriptableObjectCore.Scripts.Variables;
 using BML.Scripts.Utils;
 using UnityEngine;
 
-namespace BML.Scripts
+namespace BML.Scripts.ResourceGather
 {
     public class Base : MonoBehaviour
     {

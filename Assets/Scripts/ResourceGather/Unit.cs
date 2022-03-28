@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace BML.Scripts
+namespace BML.Scripts.ResourceGather
 {
     public class Unit : MonoBehaviour
     {

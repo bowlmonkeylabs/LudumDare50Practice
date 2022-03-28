@@ -484,7 +484,7 @@ MonoBehaviour:
   agentMask:
     serializedVersion: 2
     m_Bits: 128
-  resourceCount: {fileID: 11400000, guid: 66fe032d51230b24c9ffb16ddf7bdc76, type: 2}
+  resourceCount: {fileID: 11400000, guid: 8f0a1d6148373e049b10278f0ca6e6bd, type: 2}
 --- !u!1 &476552383
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,7 +674,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01714e5b163e49d385316221f20b9646, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  resourceCount: {fileID: 11400000, guid: 66fe032d51230b24c9ffb16ddf7bdc76, type: 2}
+  resourceCount: {fileID: 11400000, guid: 8f0a1d6148373e049b10278f0ca6e6bd, type: 2}
   text: {fileID: 476552385}
 --- !u!1 &568284469
 GameObject:
